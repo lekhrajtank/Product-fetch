@@ -152,9 +152,7 @@ Older browsers still display the grid & images, but without advanced scaling.
 
 ---
 
-## 📄 License
 
-MIT License © Lekhraj Tank
 
    
 
